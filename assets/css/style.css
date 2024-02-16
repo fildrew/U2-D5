@@ -41,11 +41,11 @@ body {
 }
   
 .headerContainer {
-    width: 87%;
+    width: 70%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    white-space: nowrap;
+    
 }
   
 nav ul {
@@ -129,16 +129,17 @@ a {
     padding-top: 5em;
     padding-left: 0;
     padding-right: 0;
+    
 }
   
 .firstblock {
-    width: 93.5%;
+    width: 85.5%;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0;
     position: relative;
-    padding: 5em 0;
+    padding: 7em 0;
 }
   
 .firstblock-button {
@@ -154,6 +155,7 @@ h1 {
     font-weight: 500;
     margin: 0;
     font-family: "Spectral", serif;
+    margin-bottom: 35px;
 }
   
 h2 {
@@ -165,7 +167,7 @@ h2 {
 }
   
   .firstblock-text {
-    white-space: nowrap;
+    height: 100%;
 }
   
 .M {
